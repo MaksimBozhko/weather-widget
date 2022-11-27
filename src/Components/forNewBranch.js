@@ -1,6 +1,6 @@
 import React from "react";
 
-class Branch extends React.Component {
+class NewBranch extends React.Component {
     render() {
         return(
             <div>
@@ -11,4 +11,4 @@ class Branch extends React.Component {
     }
 }
 
-export default Branch
+export default NewBranch
