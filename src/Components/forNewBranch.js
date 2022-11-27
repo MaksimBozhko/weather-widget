@@ -14,6 +14,7 @@ class NewBranch extends React.Component {
                 <div>developer/login 2</div>
                 <div>developer/popup 1</div>
                 <div>developer/popup 2</div>
+                <div>developer</div>
             </div>
         )
     }
