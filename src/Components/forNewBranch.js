@@ -8,6 +8,8 @@ class NewBranch extends React.Component {
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>developer/login 1</div>
                 <div>developer/login 2</div>
+                <div>developer/popup 1</div>
+                <div>developer/popup 2</div>
             </div>
         )
     }
