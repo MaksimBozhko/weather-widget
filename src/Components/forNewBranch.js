@@ -5,6 +5,7 @@ class NewBranch extends React.Component {
         return(
             <div>
                 <div>new commit developer</div>
+                <div>new commit developer2</div>
                 <h1>Погодное приложение</h1>
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>developer/login 1</div>
