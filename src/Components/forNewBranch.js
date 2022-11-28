@@ -11,6 +11,7 @@ class NewBranch extends React.Component {
                 <h1>Погодное приложение</h1>
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>new feature</div>
+                <div>second feature</div>
             </div>
         )
     }
