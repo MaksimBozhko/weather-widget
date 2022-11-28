@@ -13,6 +13,9 @@ class NewBranch extends React.Component {
                 <div>new feature</div>
                 <div>second feature</div>
                 <div>pas</div>
+                <div>three pas</div>
+                <div>pas</div>
+                <div>pas</div>
             </div>
         )
     }
