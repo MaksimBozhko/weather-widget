@@ -12,6 +12,7 @@ class NewBranch extends React.Component {
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>new feature</div>
                 <div>second feature</div>
+                <div>pas</div>
             </div>
         )
     }
