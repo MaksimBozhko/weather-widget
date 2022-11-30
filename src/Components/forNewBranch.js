@@ -19,6 +19,7 @@ class NewBranch extends React.Component {
                 <div>pas</div>
                 <div>console</div>
                 <div>this is a new helper</div>
+                <div>this is fit 1</div>
             </div>
         )
     }
