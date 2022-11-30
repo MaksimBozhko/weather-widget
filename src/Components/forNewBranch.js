@@ -20,6 +20,7 @@ class NewBranch extends React.Component {
                 <div>console</div>
                 <div>this is a new helper</div>
                 <div>this is fit 1</div>
+                <div>this is fet2</div>
             </div>
         )
     }
