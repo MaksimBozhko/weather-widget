@@ -11,6 +11,7 @@ class NewBranch extends React.Component {
                 <div>commit 5</div>
                 <div>commit 6</div>
                 <div>commit 7</div>
+                <div>commit 8</div>
             </div>
         )
     }
