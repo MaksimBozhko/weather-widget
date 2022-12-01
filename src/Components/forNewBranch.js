@@ -20,6 +20,7 @@ class NewBranch extends React.Component {
                 <div>com2</div>
                 <div>com3</div>
                 <div>com4</div>
+                <div>com5</div>
             </div>
         )
     }
