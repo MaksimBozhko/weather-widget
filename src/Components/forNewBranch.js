@@ -16,6 +16,7 @@ class NewBranch extends React.Component {
                 <div>check</div>
                 <div>checklog</div>
                 <div>checkpas</div>
+                <div>com1</div>
             </div>
         )
     }
