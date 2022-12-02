@@ -19,6 +19,7 @@ class component extends React.Component {
                 <div>com8</div>
                 <div>com9</div>
                 <div>com10</div>
+                <div>fix bag 2</div>
             </div>
         )
     }
