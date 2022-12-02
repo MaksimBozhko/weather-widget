@@ -8,6 +8,7 @@ class component extends React.Component {
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>new component feature</div>
                 <div>feature2</div>
+                <div>feature helper</div>
             </div>
         )
     }
