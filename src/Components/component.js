@@ -10,6 +10,7 @@ class component extends React.Component {
                 <div>feature2</div>
                 <div>feature helper</div>
                 <div>com1</div>
+                <div>com2</div>
             </div>
         )
     }
