@@ -8,6 +8,7 @@ class component extends React.Component {
                 <p>Узнайте погоду в вашем городе!</p>
                 <div>com1</div>
                 <div>com2</div>
+                <div>com3</div>
             </div>
         )
     }
