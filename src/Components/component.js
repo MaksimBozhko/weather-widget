@@ -17,6 +17,7 @@ class component extends React.Component {
                 <div>com6</div>
                 <div>com7</div>
                 <div>com8</div>
+                <div>com9</div>
             </div>
         )
     }
