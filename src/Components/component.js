@@ -40,6 +40,7 @@ class component extends React.Component {
                 <div>component17</div>
                 <div>component18</div>
                 <div>component19</div>
+                <div>component20</div>
             </div>
         )
     }
