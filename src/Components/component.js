@@ -26,6 +26,7 @@ class component extends React.Component {
                 <div>component3</div>
                 <div>component4</div>
                 <div>component5</div>
+                <div>component6</div>
             </div>
         )
     }
