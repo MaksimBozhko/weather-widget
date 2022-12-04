@@ -23,6 +23,7 @@ class component extends React.Component {
                 <div>fix bag 2</div>
                 <div>component1</div>
                 <div>component2</div>
+                <div>component3</div>
             </div>
         )
     }
