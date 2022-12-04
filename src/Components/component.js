@@ -28,6 +28,7 @@ class component extends React.Component {
                 <div>component5</div>
                 <div>component6</div>
                 <div>component7</div>
+                <div>component8</div>
             </div>
         )
     }
