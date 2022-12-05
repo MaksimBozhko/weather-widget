@@ -7,6 +7,7 @@ function Forcomponent() {
         <div>com3</div>
         <div>com4</div>
         <div>com5</div>
+        <div>com6</div>
     </div>
 }
 
